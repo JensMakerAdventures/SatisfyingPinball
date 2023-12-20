@@ -1,8 +1,12 @@
-https://github.com/JensMakerAdventures/SatisfyingPinball/blob/main/MetalBallToy_schematic_V1.png
+[![YouTube videoE](https://github.com/JensMakerAdventures/SatisfyingPinball/blob/main/Thumbnail_V1_play.png)](https://youtu.be/2zgRxNnwczY)
 
-YouTube video: https://youtu.be/2zgRxNnwczY
-Models Thingiverse: https://www.thingiverse.com/thing:6389664
-Models Printables: https://www.printables.com/model/688166-steel-ball-launching-toy
+![Electrical schematic](https://github.com/JensMakerAdventures/SatisfyingPinball/blob/main/MetalBallToy_schematic_V1.png)
+
+Models Thingiverse: 
+https://www.thingiverse.com/thing:6389664
+
+Models Printables: 
+https://www.printables.com/model/688166-steel-ball-launching-toy
 
 Additional material:
 - Front cover panels: transparant acrylic sheets. They are useful for not getting balls shot in your eyes. I laser cut these.
