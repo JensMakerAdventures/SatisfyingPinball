@@ -11,7 +11,7 @@ https://www.printables.com/model/688166-steel-ball-launching-toy
 Additional material:
 - Front cover panels: transparant acrylic sheets. They are useful for not getting balls shot in your eyes. I laser cut these.
 - Stepper motor NEMA 17HS4023 https://nl.aliexpress.com/item/1005004963609855.html
-- On/Off switch (sorry can't find link), footprint hole in front cover is 13.7 mm high and 8.8 mm wide
+- On/Off switch, footprint hole in front cover is 13.7 mm high and 8.8 mm wide https://nl.aliexpress.com/item/4001165826718.html
 - Arduino CNC shield V3 https://nl.aliexpress.com/item/32548695669.html
 - Arduino, any 5V type will do
 - Dupont wires
